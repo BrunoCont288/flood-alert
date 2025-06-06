@@ -1,4 +1,0 @@
-Henrique de Sousa - RM: 556937
-Bruno Cont - RM: 555324
-Beatriz Porto - RM: 556743
-Link do GitHub: https://github.com/HenriqueSA05/flood-alert
