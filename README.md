@@ -40,7 +40,4 @@ Aplicativo mobile desenvolvido em **React Native** que simula um sistema automat
 - **Repositório no GitHub**: [github.com/HenriqueSA05/flood-alert](https://github.com/HenriqueSA05/flood-alert)  
 
 ## **🎯 Objetivo do Projeto**  
-Desenvolvido para a disciplina **Advanced Programming and Mobile Dev**, o app visa simular um sistema de prevenção a enchentes, integrando funcionalidades básicas de monitoramento e controle.  
-
-### **Observações**  
-- Projeto **focado no frontend**
+Desenvolvido para a disciplina **Advanced Programming and Mobile Dev**, o app visa simular um sistema de prevenção a enchentes, integrando funcionalidades básicas de monitoramento e controle.
